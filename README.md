@@ -1,2 +1,3 @@
 # MyPortfolio
-My portfolio
+
+-- Still in development. Must add projects.
